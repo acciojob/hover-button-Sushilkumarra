@@ -1,6 +1,7 @@
 
 /* Your CSS Code here. */
 /* Initial State */
+/* Initial Button State */
 #btn {
   background-color: black;
   color: white;
@@ -9,7 +10,7 @@
   padding: 10px 20px;
   font-size: 16px;
   cursor: pointer;
-  transition: all 0.3s ease; /* smooth hover transition */
+  transition: all 0.3s ease;
 }
 
 /* Hover State */
